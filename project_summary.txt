@@ -1,0 +1,25 @@
+Project Name:
+IPL Data Analysis Dashboard
+
+Tools Used:
+Python
+Google Colab
+SQL Server
+Power BI
+
+Dataset:
+IPL Score Prediction Dataset
+
+Skills Demonstrated:
+• Data Cleaning
+• Exploratory Data Analysis
+• SQL Queries
+• Data Visualization
+• Dashboard Development
+
+Dashboard Features:
+• KPI Cards
+• Team Analysis
+• Venue Analysis
+• Player Analysis
+• Interactive Slicers
